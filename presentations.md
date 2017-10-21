@@ -1,5 +1,7 @@
 # Computer Team Presentations
 
+[9/11/17 Intro to Computer Team](https://docs.google.com/presentation/d/1Qp2jospnBFJBrKqn9Yhc6uM5H0_RXdYYBE1f7_jjMo0/edit?usp=sharing)
+
 [9/18/17 CSAW HSF](https://docs.google.com/presentation/d/1k8ThRMg4e4U0_SnMPFdW1b73xpWNljgxXMoDLLgdb3g/edit?usp=sharing)
 
 [9/25/17 CyberPatriot](https://docs.google.com/presentation/d/1PkhKmmHcXaGYiOEO5CQIOGShTQBQIIRG5yE9Z1PSwOE/edit?usp=sharing)
